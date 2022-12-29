@@ -3,7 +3,7 @@ A Fake News Detecting ML Model using NLP!
 
 Successfully created a Fake News Detecting Model using NLP! 🎉
 
-🔖 Throughout the process was able to perform various tasks:
+🔖 Throughout the process was able to perform various tasks :
 
 🏷 Import libraries and datasets
 🏷 Preliminary data processing
