@@ -15,4 +15,4 @@ Successfully created a Fake News Detecting Model using NLP! 🎉
 🏷 Train an LSTM Model
 🏷 Assess trained model performance
 
-I had a wonderful learning opportunity where I worked with libraries like TensorFlow, plotly, nltk, spacy, WordCloud, gensim, pandas, Keras, NumPy, seaborn, and many more.
+I had a wonderful learning opportunity where I worked with libraries like TensorFlow, plotly, spacy, WordCloud, gensim, pandas, Keras, NumPy, seaborn, and many more.
